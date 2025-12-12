@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Course from "./components/course/Course";
+import Navbar from "./components/navigation/Navbar";
+import Products from "./components/products/Products";
+import Counter from "./components/state/Counter";
+import ToDoListCard from "./components/to-do-list/ToDoList";
+import Employees from "./components/employees/Employees";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <div className="d-flex justify-content-center m-2">
+        <Course />
+      </div>
+      <div className="row g-0">
+        <div className="col-md-6 mb-4">
+          <Counter />
+        </div>
+        <div className="col-md-6 mb-4">
+          <ToDoListCard />
+        </div>
+        <div className="m-4 p-4">
+          <Products />
+        </div>
+      </div>
+      <Employees />
     </div>
   );
 }
-
 export default App;

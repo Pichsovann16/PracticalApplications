@@ -1,0 +1,216 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sok Ratha",
+      "position": "Frontend Developer",
+      "email": "ratha.sok@example.com",
+      "salary": 750,
+      "department": "IT",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Chan Dara",
+      "position": "Backend Developer",
+      "email": "dara.chan@example.com",
+      "salary": 820,
+      "department": "IT",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Ly Sreyneang",
+      "position": "HR Manager",
+      "email": "sreyneang.ly@example.com",
+      "salary": 900,
+      "department": "Human Resources",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "Kim Vannak",
+      "position": "UI/UX Designer",
+      "email": "vannak.kim@example.com",
+      "salary": 680,
+      "department": "Design",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Phan Sokchea",
+      "position": "Marketing Specialist",
+      "email": "sokchea.phan@example.com",
+      "salary": 590,
+      "department": "Marketing",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "Long Borey",
+      "position": "Accountant",
+      "email": "borey.long@example.com",
+      "salary": 700,
+      "department": "Finance",
+      "status": "Inactive"
+    },
+    {
+      "id": 7,
+      "name": "Nhem Chansok",
+      "position": "DevOps Engineer",
+      "email": "chansok.nhem@example.com",
+      "salary": 880,
+      "department": "IT",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "Keo Sophea",
+      "position": "Project Manager",
+      "email": "sophea.keo@example.com",
+      "salary": 1200,
+      "department": "Management",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Touch Veasna",
+      "position": "Support Specialist",
+      "email": "veasna.touch@example.com",
+      "salary": 500,
+      "department": "Support",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "Yim Sovann",
+      "position": "QA Tester",
+      "email": "sovann.yim@example.com",
+      "salary": 620,
+      "department": "Quality Assurance",
+      "status": "Active"
+    },
+    [
+      {
+        "id": 11,
+        "name": "Tang Jeng",
+        "position": "Backtend Developer",
+        "email": "tangjeng.sok@example.com",
+        "salary": 750,
+        "department": "IT",
+        "status": "Active"
+      }
+    ],
+    [
+      {
+        "id": 11,
+        "name": "Tang Jeng",
+        "position": "Backtend Developer",
+        "email": "tangjeng.sok@example.com",
+        "salary": 750,
+        "department": "IT",
+        "status": "Active"
+      },
+      {
+        "id": 12,
+        "name": "Tim Sovannda",
+        "position": "Line Manager",
+        "email": "sovannda.tim@example.com",
+        "salary": 120,
+        "department": "Human Resource",
+        "status": "Active"
+      }
+    ],
+    [
+      {
+        "id": 11,
+        "name": "Tang Jeng",
+        "position": "Backtend Developer",
+        "email": "tangjeng.sok@example.com",
+        "salary": 750,
+        "department": "IT",
+        "status": "Active"
+      },
+      {
+        "id": 12,
+        "name": "Tim Sovannda",
+        "position": "Line Manager",
+        "email": "sovannda.tim@example.com",
+        "salary": 120,
+        "department": "Human Resource",
+        "status": "Active"
+      }
+    ],
+    [
+      {
+        "id": 11,
+        "name": "Tang Jeng",
+        "position": "Backtend Developer",
+        "email": "tangjeng.sok@example.com",
+        "salary": 750,
+        "department": "IT",
+        "status": "Active"
+      },
+      {
+        "id": 12,
+        "name": "Tim Sovannda",
+        "position": "Line Manager",
+        "email": "sovannda.tim@example.com",
+        "salary": 120,
+        "department": "Human Resource",
+        "status": "Active"
+      }
+    ],
+    [
+      {
+        "id": 11,
+        "name": "Tang Jeng",
+        "position": "Backtend Developer",
+        "email": "tangjeng.sok@example.com",
+        "salary": 750,
+        "department": "IT",
+        "status": "Active"
+      },
+      {
+        "id": 12,
+        "name": "Tim Sovannda",
+        "position": "Line Manager",
+        "email": "sovannda.tim@example.com",
+        "salary": 120,
+        "department": "Human Resource",
+        "status": "Active"
+      }
+    ],
+    [
+      {
+        "id": 11,
+        "name": "Tang Jeng",
+        "position": "Backtend Developer",
+        "email": "tangjeng.sok@example.com",
+        "salary": 750,
+        "department": "IT",
+        "status": "Active"
+      },
+      {
+        "id": 12,
+        "name": "Tim Sovannda",
+        "position": "Line Manager",
+        "email": "sovannda.tim@example.com",
+        "salary": 120,
+        "department": "Human Resource",
+        "status": "Active"
+      }
+    ],
+    [
+      {
+        "id": 12,
+        "name": "Tim Sovannda",
+        "position": "Line Manager",
+        "email": "sovannda.tim@example.com",
+        "salary": 120,
+        "department": "Human Resource",
+        "status": "Active"
+      }
+    ]
+  ]
+}

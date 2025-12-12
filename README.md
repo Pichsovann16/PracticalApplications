@@ -1,6 +1,7 @@
 # First React App – Practice Project
 
-[Live Demo](http://localhost:3000)
+[Live Demo](https://github.com/Pichsovann16/PracticalApplications)
+
 ## Overview
 
 This is a **React practice project** built with Create React App. It combines several small examples into one page:
@@ -73,6 +74,7 @@ File: `src/components/navigation/Navbar.js`
 ### 2. Course Cards
 
 Files:
+
 - `src/components/course/Course.js`
 - `src/components/course/CourseCard.js`
 

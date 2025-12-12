@@ -1,6 +1,6 @@
 # First React App – Practice Project
 
-[Live Demo](https://github.com/Pichsovann16/PracticalApplications)
+[Live Demo]()
 
 ## Overview
 
